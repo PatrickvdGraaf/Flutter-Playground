@@ -9,6 +9,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.0
 
+  # Adds a library that contains a few thousand of the most used English words and some utility
+  # functions.
+  english_words: ^3.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
